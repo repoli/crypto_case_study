@@ -28,6 +28,12 @@ Datei (änderung oder neu) für den nächsten Commit hinzufügen:
     git fetch origin
     git merge origin/master
 
+Konflikt beheben
+    git pull origin # sagt, dass es einen konflikt gibt
+    <edit ... konflikt beheben>
+    git add <datei(en) mit konflikt>
+    git commit # macht automatisch eine "gute" Commitnachricht
+
 Unterschiede an einem Dokument anzeigen:
     git diff <dateiname> # änderungen, die ich gemacht habe
     git diff <commitid> <commitid> <dateiname> # änderungen zwischen den beiden commits
