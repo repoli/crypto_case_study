@@ -33,6 +33,7 @@ Konflikt beheben
     <edit ... konflikt beheben>
     git add <datei(en) mit konflikt>
     git commit # macht automatisch eine "gute" Commitnachricht
+    git push github # änderungen hochladen
 
 Unterschiede an einem Dokument anzeigen:
     git diff <dateiname> # änderungen, die ich gemacht habe
