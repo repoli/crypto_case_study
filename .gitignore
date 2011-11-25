@@ -1,4 +1,6 @@
 localstuff
-03-program.aux
-03-program.log
-03-program.synctex.gz
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.pdf
