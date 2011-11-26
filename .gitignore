@@ -1,0 +1,6 @@
+localstuff
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.pdf

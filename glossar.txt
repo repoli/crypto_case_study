@@ -1,0 +1,114 @@
+Glossar
+
+
+Big Brother 
+
+Imagin\"are Person aus dem von George Orwell 1949 ver\"offentlichten 
+Buch "1984". Big Brother symbolisiert den \"Uberwachungsstaat und dessen 
+totalit\"are Auswirkungen. 
+
+Key Escrow 
+
+Vom Staat verordnete Speicherung s\"amtlicher zur Verschl\"usselung 
+ben\"otigter kryptographischer Schl\"ussel. Dies hat zur Folge, dass 
+Kryptographie ohne Hinterlegung der Schl\"ussel illegal sein muss. 
+
+DNA 
+
+Die DNA (Deoxyribonucleic acid) ist ein Molek\"ul, das die 
+Erbinformationen beinhaltet. Sie erm\"oglicht es, durch Spuren, z.B. 
+Haare, Personen einigermassen sicher zu identifizieren. Im Erbgut des 
+Menschen sind vererbbare Krankheiten resp. Veranlagungen f\"ur dieselben 
+wie z.B. Alzheimer ersichtlich. 
+
+Privatsph\"are 
+
+Die Privatsph\"are einer nat\"urlichen Person ist ein im Gesetz 
+festgeschriebenes Prinzip, welches als Menschenrecht betrachtet wird und 
+juristisch unter gewissen Bedingungen eingeschr\"ankt werden kann, z.B. 
+im Strafrecht oder bei Personen \"offentlichen Interesses. Es soll der 
+Person Freiheiten einberaumen, damit sie sich pers\"onlich Entfalten 
+kann, ohne Repressionen oder Einschr\"ankungen f\"urchten zu m\"ussen. 
+Privatsph\"are spielt heutzutage sowohl in der realen Welt ("physisch") 
+als auch - und dies in zunehmendem Masse - im Internet eine Rolle 
+("virtuell"). 
+
+Bundestrojaner 
+
+Bundestrojaner im weiteren Sinn bezeichnet eine Art Software, welche auf 
+dem Computer einer zu \"uberwachenden Person installiert wird. Es geht 
+dabei darum, verschl\"usselte Daten und Datenstr\"ome vor der 
+Verschl\"usselung oder nach der Entschl\"usselung zu lesen. Eingesetzt 
+wird der Bundestrojaner von Strafverfolgungsbeh\"orden. 
+
+Verschl\"usselung / Kryptographie (?) 
+
+Umwandlung von Daten in eine Form, die von Drittpersonen nicht ohne 
+Kenntnis einer weiteren Information, des sogenannten Schl\"ussels, 
+gelesen werden kann. Im Falle von Kommunikation m\"ussen die beiden 
+Parteien auf irgendeine Art und Weise den Schl\"ussel austauschen, damit 
+sie miteinander verschl\"usselt kommunizieren k\"onnen. Man 
+unterscheidet "starke" und "schwache" Verschl\"usselung; stark meint in 
+diesem Zusammenhang, dass bei sorgf\"altigem Umgang die Daten nicht ohne 
+den Schl\"ussel entschl\"usselt werden k\"onnen. 
+
+Telekommunikations\"uberwachung (TK\"U) 
+
+Telekommunikations\"uberwachung (Englisch: Lawful Interception) 
+bezeichnet die vom Staat durch Legislation befohlene M\"oglichkeit, 
+Ermittlungs- und anderen Beh\"orden Zugriff auf Verkehrsdaten und/oder 
+Dateninhalte von Telekommunikationsinfrastruktur zu erm\"oglichen. 
+Verkehrsdaten (auch Verbindungsdaten) beinhalten z.B. Zeitpunkt, Ort, 
+Teilnehmer und Dauer eines Telefongespr\"achs, nicht aber den 
+Dateninhalt, also die gesprochenen Worte. Die Analyse von Verkehrsdaten 
+wird auch Verkehrsflussanalyse (Englisch: Traffic Analysis) genannt. 
+
+Chip 
+
+Eigentlich Mikrochip, wird im allgemeinen Sprachgebrauch f\"ur 
+hochintegrierte, kleinste elektronische Schaltungen verwendet. Chips 
+k\"onnen zur Datenerfassung, -verarbeitung, -speicherung und zur 
+Kommunikation verwendet werden. 
+
+Echtzeit\"uberwachung 
+
+Damit ist der unmittelbare Zugriff auf durch \"Uberwachung gewonnene 
+Daten gemeint. Z.B. k\"onnen Ermittler bei einem Telefongespr\"ach 
+gleichzeitig mit den Teilnehmern mith\"oren. 
+
+Vorratsdatenspeicherung 
+
+Das Erheben und Speichern von Daten ohne Verdacht, f\"ur die sp\"atere 
+Verwendung von Strafverfolgungs- und anderen Beh\"orden. Sie wird oft im 
+Gesetz mit Mindest- oder Maximalspeicherdauer festgelegt. 
+
+Cyberkrieg 
+
+Ein Begriff, dessen Bedeutung noch nicht eindeutig festgelegt worden 
+ist. Wird oft als Erweiterung des konventionellen Krieges auf 
+Informationsnetzwerke und dessen virtuellen R\"aume gesehen. Die 
+m\"oglichen Vorgehensweisen reichen von Propaganda bis zur Sabotage, 
+welche durchaus in der realen Dimension Auswirkungen haben kann. 
+
+Video\"uberwachung 
+
+Das kontinuierliche Filmen von Orten durch Videokameras und oft 
+Speicherung der aufgezeichneten Daten. Die Video\"uberwachung wird zur 
+Verbrechenspr\"avention und nachtr\"aglichen Ermittlung von T\"atern 
+eingesetzt. So die Theorie. 
+
+Verkehrsflussanalyse / Traffic Analysis (s. auch TK\"U) 
+
+Im engeren Sinne bezeichnet der Begriff die Analyse von Verkehrsdaten 
+mit dem Ziel, Bewegungsmuster und Netzwerke von Personen oder 
+Personengruppen zu identifizieren. Es geht darum, aus einzelnen Zeit-, 
+Ort- und Personen-Datenpunkten ein abstraktes Bild zu erzeugen. 
+
+Datenschutz 
+
+Unter Datenschutz versteht man den Schutz personenbezogener Daten, d.h. 
+Daten, die u.a. die Privatsp\"are einer Person betreffen. Der 
+Datenschutz ist in Europa auf Gesetzesebene geregelt und soll 
+sicherstellen, dass jede einzelne Person \"uber ihre eigenen Daten 
+bestimmen kann. Dabei ist es irrelevant, ob die datensammelnde 
+Institution der Staat oder eine Firma ist. 

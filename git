@@ -1,0 +1,53 @@
+git:
+    - Wer kein git-repo hat, kann sich eines bei github.com klicken
+
+Beginn zu arbeiten:
+    git clone git://git.schottelius.org/hszt/krypto-fallstudie
+    cd krypto-fallstudie
+    git remote add github <url-den-ihr-von-github-habt-für-rw> # Wichtig: Schreibzugriff
+    git push github master # Repo bei github befüllen (nur beim 1. mal):
+
+Status anzeigen: (sehr wichtig)
+    git status
+
+Verlauf anzeigen:
+    git log
+
+
+Datei (änderung oder neu) für den nächsten Commit hinzufügen:
+    git add <datei>
+    git status # schauen was ist los
+    git commit -m "nachricht" # commit einpflegen
+    git push github # änderungen hochladen
+
+Änderungen bekommen
+    git pull origin # neueste Sachen von Nico mergen
+
+    In Einzelschritten:
+
+    git fetch origin
+    git merge origin/master
+
+Konflikt beheben
+    git pull origin # sagt, dass es einen konflikt gibt
+    <edit ... konflikt beheben>
+    git add <datei(en) mit konflikt>
+    git commit # macht automatisch eine "gute" Commitnachricht
+    git push github # änderungen hochladen
+
+Unterschiede an einem Dokument anzeigen:
+    git diff <dateiname> # änderungen, die ich gemacht habe
+    git diff <commitid> <commitid> <dateiname> # änderungen zwischen den beiden commits
+
+    git checkout <commit> -- <dateiname> # version des dokuments von <commit> auschecken
+    mv <dateiname> <meinwunschname> # datei verschieben
+    git checkout HEAD -- <dateiname> # letzte version aus git rausholen
+
+Für Fortgeschrittene:
+    Die anderen Repos direkt nutzen:
+
+    git remote add drothli git://git.d-roth.li/hszt/informatik/crypto/fallstudie.git
+    git remote add dani git://github.com/abcgit/krypto.git
+    git remote add oli git://github.com/repoli/crypto_case_study.git
+    git remote add linda git://github.com/liha/KryptoGit.git
+

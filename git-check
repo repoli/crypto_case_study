@@ -1,0 +1,3 @@
+for r in $(git remote); do
+    git fetch -v "$r"
+done

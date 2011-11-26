@@ -1,0 +1,19 @@
+The Risk of Key Recovery, Key Escrow and Trusted Third-Party Encryption
+
+Der Bericht wurde 1997 veröffentlicht und behandelt Systeme, die der Regierung
+Zugriff auf Encryption Keys ermöglicht.
+Das Problem der Verschlüsselung ist, dass es den Behörden (Strafverfolgung)
+die Überwachung schwierig macht. Dies war der Grund weshalb eine Debatte über
+'Key Recovery' (oder auch Key Escrow) gestartet wurde. Der Begriff 'Key
+Recovery' wird für verschiedene Techniken verwendet wie Key Escrow, Trusted
+Third Party, Data recovery. Dabei geht es grundsätzlich darum, dass es einen
+Mechanismus gibt, wodurch ein Dritter unbemerkt Zugang zum Klartext bekommt.
+Das von der Regierung gewünschte Key Recovery wurde dabei so Verkauft, dass
+dieses auch in der kommerziellen Welt gebraucht werden kann. Jedoch wird
+aufgezeigt, dass sich die Anforderungen der beiden Parteien sehr
+unterscheiden.
+Abschliessend werden die Risiken und Kosten eines Key Recovery Systems
+diskutiert.
+Fazit: Key recovery systems are inherently less secure, more costly, and more
+difficult to use than similar systems without a recovery feature.
+

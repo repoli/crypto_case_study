@@ -1,0 +1,18 @@
+Der Text beschreibt Kryptographie im Zusammenhang mit Kriminalitaet.
+Es geht dabei um die Probleme aus Sicht der Strafverfolger. Der Text
+hat den Schwerpunkt auf Entwicklungen in den Niederlanden, aber auch 
+die EU und die USA werden betrachtet. Juristischen Betrachtungen
+wird ein grosser Raum einberaumt.
+Der Text an sich ist veraltet (Stand 1999).
+
+Hauptaussage: Organisiertes Verbrechen und Computerkriminalitaet sind
+eine ernstzunehmende Bedrohung fuer die Gesellschaft geworden und 
+Kryptographie erlaubt es, diese Aktivitaeten vor den Strafverfolgern
+zu verbergen. Daher benoetigen die Strafverfolger Mittel (operationelle
+und gesetzliche), um Recht und Ordnung aufrecht zu erhalten. Dies sind
+vor allem Abhoeren von Kommunikation und Entschluesselung von 
+verschluesselten Daten.
+
+Begriffe:
+wiretapping
+traffic analysis

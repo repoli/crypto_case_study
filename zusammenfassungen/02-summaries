@@ -1,0 +1,165 @@
+4) Terrorist Finance Tracking Program
+	Report for Congress "Treasury's Terrorist Finance Program's Access to 
+		Information Held by SWIFT"
+
+Abbreviations:
+- SWIFT: Society for Worldwide Interbank Financial Telecommunication
+	SWIFT is an major hub for international communication among banks and other
+	financial institutions
+- E.O.: Executive Order
+- IEEPA: International Emergency Eceonomic Powers Act
+- U.S.:	United States
+- U.N.: United Nations
+
+Summary:
+	This document describes how the Treasury was allowed to collect information
+	held by SWIFT. 
+	The document starts with showing why the authority was given and in short 
+	states: 
+		"President Bush issued E.O. 13224 on September 23, 	2001, pursuant to 
+		the IEEPA, 50 U.S.C §§ 1701-1706. In order to use IEEPA the president 
+		must declare a national emergency based on the existence of an unusual 
+		or extraordinary thread to U.S. national security, foreign 	policy, or 
+		economy having it source, in whole or substantial part, outside the 
+		United States. This was given by the events of September 11, 2001."
+	The authority given was restricted to named individuals and entities which
+	were determined by the Secretary of State and the Secretary of the Treasury
+	and with the Attorney General. 
+	As the United States lacks of any general law of financial privacy, the 
+	constitution provides no protection against goverment access to financial
+	information turned over to third parties (United States vs. Miller, 425 U.S.
+	435 1976). Although the Fourth Amendment to the Constitution requires a 
+	search warrant for a law enforcement agent, it does not protect any data 
+	when they are held by financial institutions nevertheless it generally 
+	requires customer notice when federal authorities seek access to bank 
+	information on individuals or partnerships of five or fewer individuals.
+	Information gained under IEEPA which do not need notification of 
+	individuals can be transfered to any other agency by just believing that 
+	this may be of interest to them.
+	Additionally there are other laws for:
+		- Import/Export of financial instruments above $10'000 must be reported
+			to the Treasury
+		- The USA PATRIOT Act regulates an recordkeeping of money laundery and 
+			allows to collect information about individuals from financial 
+			instutions even if the institution is not domestic.
+		- The Suppression of the Financing of Terrorism Convention 
+			Implementation Act makes it a crime to collect of provide funds to
+			support terrorist activites, regardless of wheter the offense was
+			commited in the United States or the accused was a United States
+			citizen.
+		- The Treasury Secretary must issue regulations mandating the reporting
+			of cross-border transmittals by certain financial institutions, and
+			submit a report to Congress on the efforts to combat money 
+			laundering and and terrorist financing.
+			
+	The U.S. goverment has gotten support from U.N. Security Council which did
+	ask all states to collect information regarding the U.N. General 
+	Assembly in 1999, which obligates the states party to take measures to 
+	identifiy, discover, freeze or seize the moneys used or intended for use to
+	finance terrorist attacks of an international character.
+	On June 29, 2006, the House of Representative passed H.Res. 895, voicing 
+	support for the Treasury Terrorist Finance Tracking Program as lawful.
+	
+Keywords:
+- Terrorism
+- "September 11, 2001"
+- PATRIOT ACT
+
+6) ZEHNTE SCHWEIZER BIG BROTHER AWARDS
+	
+Zusammenfassung:	
+	Die Big Brother Awards zeichnen die grössten Datenschnüffler in den 
+	Kategorien Staat, Business, Arbeitsplatz und Lebenswerk aus.
+
+	Staat: "Dienst für die Überwachung des Post und Fernmeledeverkehrs"
+		Das Bundesgesetz zur Überwach des Post- und Fernmeldeverkehrs 
+		verpflichtet alle Telekommunikationsfirmen und Internetprovider der 
+		Schweiz dazu, die Verbindungsdaten ihrer Kundschaft während sechs 
+		Monaten zu speichern.
+		
+		Dem Dienst genügte dies nicht und will eine Echtzeit-Überwachung der
+		kompletten Kommunikation des Breitband-Internetanschlusses. Diese 
+		Verpflichtung soll bis Ende Juni 2010 durch den Dienst zertifiziert 
+		werden. 
+	
+	Business: Swisscom
+		Durch das Speichern der ADSL-Router-Konfiguration inklusive der 
+		Passwörter. Dies Ermöglicht der Swisscom den internen Datenverkehr zu
+		belauschen.
+		
+	Arbeitsplatz: Berufsbildungsschule Winterthur
+		Durch die Aufforderung, dass Nachbarn die Schüler denunzieren sollen, 
+		sofern diese Abfall auf den Boden werden oder heimlich auf dem 
+		Schulgelände kiffen. 
+		
+	Lebenswerk: Deltavista, Küsnacht
+		Kommerzielle Sammlung von privaten (Kunden-)Daten
+		
+Glossar:
+- Echtzeit-Überwachung 
+- Speichern
+
+
+7) Crossing Borders with Laptops and PDAs
+	In April 2007 the US court ruled that border agents can search electronic 
+	devices, when entering the country. They also may copy all the content found
+	and keep this for several days. The US is not alone at least the British
+	do search laptops for pornography aswell.
+	What kind of security measures could you do against it?
+	Encryption won't work as the border agent may just ask for the password, 
+	which you could refuse but you would yield in a search, being detained even
+	longer, refuse you from entering the country or ruin your day otherwise.
+	You will be hiding the data for it's safety. This can be combined with the 
+	above. Most likely the customs agent will not find the hidden partition even
+	if he pokes around in your filesystem and even if the copy all your data, 
+	why should you care it was encrypted and he will most likely not be able to 
+	decrypt it within a reasonable time.
+	The biggest problem you could face with that approach is, that your computer
+	did save the passphrase somewhere or you might have chosen a poor passphrase
+	to avoid the first, you should turn off your computer and clear any caches 
+	before (eg browser cache).
+	
+	In conclusion your best defense is to bring a new computer without any data,
+	which is not practical therefore deleting everything you don't need on 
+	your trip before going through customs. If you need data and do not want
+	customs to see those, leave them on a server and download once you are 
+	through or take your chance and put them on an encrypted usb-stick and hope
+	that customs will not see that tiny thing. Remeber this tips apply to PDA's,
+	phones, books, and all the other things you bring with you.
+	
+Keywords:
+- Customs
+- Encryption
+- Strong Passphrase
+- Safety
+	
+	
+9) Digital Information Rights Need Tech-Savvy Courts
+	Nowadays the data is no longer under our control, our mails are stored on 
+	some companys storage (eg google, yahoo). The old answering machine was 
+	replaced by the an answering computer from the phone company. Until the 
+	electronical age data was under you control, if someone wanted to know what
+	list of books you bought he used to need to break into your appartment.
+	
+	Now we have to trust that our privacy is as important to the companies we 
+	have chosen as it is to us and that is the problem, companies try to be as 
+	secure as not to be harmed by bad PR when a security breach occurs. In the 
+	US the police can use your private data against you if found by searching 
+	some company. Therefore the courts need to learn that the virtual privacy
+	must be a lot stricter then now.
+	
+Keywords:
+- virtual privacy
+- physical privacy
+
+
+Pro:
+- Privacy is not protected if data is owned by a third party (US 4,9)
+- The customs get more and more power to search you (US,UK 7)
+- Global companies may face problems to keep the security to the customers(US 4)
+- Keys/Passwords may be stored centraly (CH 6)
+- Realtime surveillance (CH 6)
+- Automated process do search for patterns in all data they can gather (US 4)
+
+Cons:
+- Not found any in my documents
